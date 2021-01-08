@@ -43,7 +43,8 @@
 }
 #footer{
   margin-top: 400px;
-  margin-left: 200px
+  /* margin-left: 350px */
+  text-align: center;
 }
 body{
   background: black;

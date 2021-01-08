@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/footer"
 function contact() {
     return (
         <div>
@@ -11,6 +12,7 @@ Email: ashraf.takla@icloud.com
                 <br></br>
 Github: ashraftakla
             </p>
+            <Footer />
         </div>
     )
 }

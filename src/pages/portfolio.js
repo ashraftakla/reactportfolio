@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col, Card, CardImg, CardText, CardTitle } from "reactstrap"
+import Footer from "../components/footer"
 function portfolio() {
     return (
         <Container>
@@ -75,6 +76,7 @@ function portfolio() {
                     </Col>
                 </Card>
             </Row>
+            <Footer />
         </Container>
     )
 
